@@ -1,3 +1,4 @@
 Based on Sigurd's port to gnome terminal
+========================================
 
-I created a branch with grayscale base colors
+This is the branch with grayscale base colors.
